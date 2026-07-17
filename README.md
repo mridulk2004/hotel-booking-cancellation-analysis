@@ -198,7 +198,7 @@ This finding suggested that targeted interventions would likely outperform platf
 
 ## Cancellation Heatmap
 
-![Cancellation Heatmap](images/cancellation_heatmap.png)
+![Cancellation Heatmap](A1_Heatmap.png)
 
 ---
 
@@ -265,7 +265,7 @@ Lead time increases cancellation risk but does not fully explain the OTA effect.
 
 ### Visualization
 
-![Lead Time Effect](images/lead_time_effect.png)
+![Lead Time Effect](A3_H1.png)
 
 ---
 
@@ -293,7 +293,7 @@ The issue is not driven by geographic outliers.
 
 ### Visualization
 
-![OTA Cancellation by City](images/ota_city_analysis.png)
+![OTA Cancellation by City](A3_H2.png)
 
 ---
 
@@ -321,7 +321,7 @@ The problem is not seasonal.
 
 ### Visualization
 
-![OTA Monthly Analysis](images/ota_month_analysis.png)
+![OTA vs Non-OTA by Month](A3_H3.png)
 
 ---
 
@@ -390,7 +390,7 @@ Simulation results estimate:
 
 ## Impact Visualization
 
-![Impact Simulation](images/intervention_impact.png)
+![Intervention Impact](A4_Impact.png)
 
 ---
 
